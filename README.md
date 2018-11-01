@@ -23,8 +23,8 @@
 最后感谢：
 * 吴恩达的深度学习课程
 * 郭老师的 Push
-* [](http://binweber.top/tags/ML/)
-* [](http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/)
+* http://binweber.top/tags/ML/
+* http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/
 
 学习了：
 * markdown 语法（最近疯狂迷恋）
