@@ -23,5 +23,13 @@
 最后感谢：
 * 吴恩达的深度学习课程
 * 郭老师的 Push
-* [http://binweber.top/tags/ML/]
-* [http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/]
+* [](http://binweber.top/tags/ML/)
+* [](http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/)
+
+学习了：
+* markdown 语法（最近疯狂迷恋）
+* LaTeX 排版（特别是数学公式）
+* Jupyter Notebook（简直无敌，超好用）
+* 泡了一周的图书馆总结了三周学的知识，脑袋大
+* 发现，不要把知识堆到一天去完成，真的，第二天我一个知识点都没看进去，而且又返工了，因为当时实在累的没有精力去思考
+* 以上，感谢大家！
