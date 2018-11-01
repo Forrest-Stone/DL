@@ -19,3 +19,9 @@
 * 对抗神经网络
 * NLP
 ......
+
+最后感谢：
+* 吴恩达的深度学习课程
+* 郭老师的 Push
+* [http://binweber.top/tags/ML/]
+* [http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/]
